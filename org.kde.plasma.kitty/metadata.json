@@ -1,0 +1,24 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "pohtato@protonmail.com",
+                "Name": "penky776"
+            }
+        ],
+        "Category": "Fun and Games",
+        "Description": "kitty",
+        "Id": "org.kde.plasma.kitty",
+        "License": "GPL-3.0-or-later",
+        "Name": "kitty",
+        "Name[x-test]": "xxKittyxx",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "3.1",
+        "Website": "https://kde.org/"
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
