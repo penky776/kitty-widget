@@ -11,9 +11,7 @@
         "License": "GPL-3.0-or-later",
         "Name": "kitty",
         "Name[x-test]": "xxKittyxx",
-        "ServiceTypes": [
-            "Plasma/Applet"
-        ],
+        "KPackageStructure": "Plasma/Applet",
         "Version": "3.1",
         "Website": "https://kde.org/"
     },
